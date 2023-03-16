@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **personal projects with Python and Django.**
 
-- 🌱 I’m currently learning **React and React Native.**
+- 🌱 I’m currently learning **Solidity.**
 
 - 👨‍💻 All of my projects are available at [https://django-portfolio-ghuf.onrender.com/](https://django-portfolio-ghuf.onrender.com/)
 
