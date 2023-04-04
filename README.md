@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">Software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **personal projects with Python and Django.**
+- 🔭 I’m currently working on **<a href="https://instagram.com/ingenia.la" target="blank"></a>**
 
 - 🌱 I’m currently learning **Solidity.**
 
