@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">Software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **<a href="https://instagram.com/ingenia.la" target="blank"></a>**
+- 🔭 I’m currently working in **Ingenia**
 
-- 🌱 I’m currently learning **Solidity.**
+- 🌱 I’m currently learning **Solidity and AI.**
 
 - 👨‍💻 All of my projects are available at [https://django-portfolio-ghuf.onrender.com/](https://django-portfolio-ghuf.onrender.com/)
 
