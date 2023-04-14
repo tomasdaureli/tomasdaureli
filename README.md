@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">Software developer from Argentina</h3>
 
-- 🔭 I’m currently working in **Ingenia**
+- 🔭 I’m currently working in **Devify**
 
 - 🌱 I’m currently learning **Solidity and AI.**
 
